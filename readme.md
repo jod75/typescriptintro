@@ -1,4 +1,4 @@
-Introduction to TypeScript
+# Introduction to TypeScript
 
 Here are some questions to kickstart your journey with TypeScript. The provided answers represent one approach to solving them. Have fun!
 
