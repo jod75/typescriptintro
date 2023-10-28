@@ -1,6 +1,8 @@
 # Introduction to TypeScript
 
-Here are some questions to kickstart your journey with TypeScript. The provided answers represent one approach to solving them. Have fun!
+[TypeScript](https://www.typescriptlang.org/) is a powerful programming language developed by Microsoft, extending the capabilities of JavaScript by introducing optional static typing. It serves as a superset of JavaScript, enabling developers to write more robust and maintainable code by catching errors during development. TypeScript adds static typing, allowing for explicit declaration of variable types, which enhances code clarity, improves tooling support, and provides a more structured approach to building large-scale applications. Its key features include strong type checking, ES6 (ECMAScript 6) support, and the ability to compile down to plain JavaScript for execution in any browser or runtime environment. This language empowers developers to create scalable, more manageable, and error-resistant applications while leveraging the flexibility and ecosystem of JavaScript.
+
+Here are some questions to kickstart your journey with TypeScript. The provided answers represent one approach to solving them. You can find sample solutions [here](./src/). If you feel stuck, don't give up, [here](./doc/) are some notes! Learn and have fun!
 
 1. Write a program that prints "Hello, World!" to the console.
 2. Create a program that can perform basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
